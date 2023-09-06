@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="88d3b9fa-1236-47b5-822f-1d1e0cffc199" name="Changes" comment="GrossPayClac.py" />
+    <list default="true" id="88d3b9fa-1236-47b5-822f-1d1e0cffc199" name="Changes" comment="GrossPayClac.py">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -55,12 +57,12 @@
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;G:/pythonProject&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/ariel/Downloads/codestream-jb-14.28.0_511.zip&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
@@ -101,7 +103,8 @@
       <workItem from="1693612282793" duration="188000" />
       <workItem from="1693706020217" duration="273000" />
       <workItem from="1693780628030" duration="83000" />
-      <workItem from="1693957159058" duration="4070000" />
+      <workItem from="1693957159058" duration="5717000" />
+      <workItem from="1694040201571" duration="365000" />
     </task>
     <task id="LOCAL-00001" summary="GrossPayClac.py">
       <option name="closed" value="true" />
@@ -119,11 +122,38 @@
       <option name="project" value="LOCAL" />
       <updated>1693965633887</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="GrossPayClac.py">
+      <option name="closed" value="true" />
+      <created>1693965772513</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1693965772513</updated>
+    </task>
+    <task id="LOCAL-00004" summary="GrossPayClac.py">
+      <option name="closed" value="true" />
+      <created>1693965801691</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1693965801691</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="GrossPayClac.py" />

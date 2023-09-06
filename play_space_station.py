@@ -18,3 +18,5 @@ else:
 ###else:
   ### down_payment = house * not_good_credit
    ### print(f'''The down-payment of the house will be ${down_payment :.2f}''')
+
+   print()
