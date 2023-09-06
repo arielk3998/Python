@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="88d3b9fa-1236-47b5-822f-1d1e0cffc199" name="Changes" comment="GrossPayClac.py">
-      <change afterPath="$PROJECT_DIR$/play_space_station.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GrossPayClac.py" beforeDir="false" afterPath="$PROJECT_DIR$/GrossPayClac.py" afterDir="false" />
-    </list>
+    <list default="true" id="88d3b9fa-1236-47b5-822f-1d1e0cffc199" name="Changes" comment="GrossPayClac.py" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -105,7 +101,7 @@
       <workItem from="1693612282793" duration="188000" />
       <workItem from="1693706020217" duration="273000" />
       <workItem from="1693780628030" duration="83000" />
-      <workItem from="1693957159058" duration="3899000" />
+      <workItem from="1693957159058" duration="4070000" />
     </task>
     <task id="LOCAL-00001" summary="GrossPayClac.py">
       <option name="closed" value="true" />
@@ -115,7 +111,15 @@
       <option name="project" value="LOCAL" />
       <updated>1693706122601</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="GrossPayClac.py">
+      <option name="closed" value="true" />
+      <created>1693965633887</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1693965633887</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
