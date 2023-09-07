@@ -5,7 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="88d3b9fa-1236-47b5-822f-1d1e0cffc199" name="Changes" comment="GrossPayClac.py">
+      <change afterPath="$PROJECT_DIR$/accounting_software_v1_1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codestream.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codestream.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GrossPayCalc.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/play_space_station.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,7 +61,7 @@
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/ariel/Downloads/codestream-jb-14.28.0_511.zip&quot;,
+    &quot;last_opened_file_path&quot;: &quot;F:/PyCharm 2023.2.1/codeium-1.2.77.zip&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -105,6 +109,10 @@
       <workItem from="1693780628030" duration="83000" />
       <workItem from="1693957159058" duration="5717000" />
       <workItem from="1694040201571" duration="365000" />
+      <workItem from="1694040581429" duration="332000" />
+      <workItem from="1694040926571" duration="238000" />
+      <workItem from="1694041174835" duration="21000" />
+      <workItem from="1694041206617" duration="1568000" />
     </task>
     <task id="LOCAL-00001" summary="GrossPayClac.py">
       <option name="closed" value="true" />
@@ -138,7 +146,23 @@
       <option name="project" value="LOCAL" />
       <updated>1693965801691</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="GrossPayClac.py">
+      <option name="closed" value="true" />
+      <created>1694040646679</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1694040646679</updated>
+    </task>
+    <task id="LOCAL-00006" summary="GrossPayClac.py">
+      <option name="closed" value="true" />
+      <created>1694040678587</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1694040678587</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -159,20 +183,9 @@
     <MESSAGE value="GrossPayClac.py" />
     <option name="LAST_COMMIT_MESSAGE" value="GrossPayClac.py" />
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/play_space_station.py</url>
-          <line>18</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
-  </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/Python$play_space_station.coverage" NAME="play_space_station Coverage Results" MODIFIED="1693965564449" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python$play_space_station.coverage" NAME="play_space_station Coverage Results" MODIFIED="1694045723981" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python$play_space.coverage" NAME="play_space Coverage Results" MODIFIED="1693962513137" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv" />
-    <SUITE FILE_PATH="coverage/Python$lbs_kg_converter.coverage" NAME="lbs_kg_converter Coverage Results" MODIFIED="1693962507917" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python$lbs_kg_converter.coverage" NAME="lbs_kg_converter Coverage Results" MODIFIED="1694045433392" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
