@@ -18,3 +18,4 @@ for line in file_handle:
 file_handle.close()  # Close the file when done
 
 print(f'''\n\nThere were {count} lines in {file_name}.''')
+
